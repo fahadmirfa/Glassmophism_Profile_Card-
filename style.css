@@ -55,7 +55,7 @@ body
 }
 .card .profile-name
 {
-    font-size: 1.5rem;
+    font-size: 25px;
     font-weight: 600;
     margin-top: 1.5rem;
 }
@@ -84,7 +84,7 @@ body
 }
 .btn-primary
 {
-    background-image: linear-gradient(135deg, #5587ff, #3772ff);
+    background-image: linear-gradient(182deg, #913750, #3772ff);
     padding: 0 1.375rem;
     border-radius: 99em;
     color: #fff;
@@ -101,6 +101,7 @@ body
 .btn-icon i
 {
     font-size: 1.25em;
+        color:rgb(255, 255, 255;
 }
 .btn-icon:hover
 {
